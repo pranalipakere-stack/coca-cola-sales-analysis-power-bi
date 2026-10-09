@@ -8,8 +8,8 @@ This project analyzes Coca-Cola sales data using Microsoft Power BI. The report 
 - Microsoft Excel / CSV Dataset
 
 ## Project Files
-- `Coca-Cola-Sales-Analysis.pbix` – Power BI report file.
-- `your_dataset.csv` – Dataset used for the analysis.
+- `cocacola sales Analysis.pbix` – Power BI report file.
+- `Coca-Cola data.csv` – Dataset used for the analysis.
 
 ## Project Objectives
 - Analyze sales performance.
